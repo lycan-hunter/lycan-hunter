@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🤓 Lycan Hunter
 
-<!--
-**lycan-hunter/lycan-hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 📌 *Ugh, not refactoring again* 🤦‍♂️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+
+### 🙋‍♂️ Me
+- 📧 **Email:** [lycan-hunt3r@proton.me](mailto:lycan-hunt3r@proton.me)
+
+### 🏢 Lyvelovt Studio
+- 📧 **Email:** [lyvelovt@gmail.com](mailto:lyvelovt@gmail.com)  
+- 🔗 **GitHub:** [Lyvelovt Studio](https://github.com/Lyvelovt)
+
+---
+
+## 🔐 GPG Signature
+
+```text
+Fingerprint: 9ABBF50BB88A3811F018B46BEAB64DA95FBEAFE4
+Created: 2025-07-22 | Expires: 2028-07-21
+```
+
+- 📄 [Download Public Key](/PUBLIC_KEY.asc)  
+- 🌐 [Verify on keys.openpgp.org](https://keys.openpgp.org/search?q=9ABBF50BB88A3811F018B46BEAB64DA95FBEAFE4)
+
+### 🛡️ Verifying My Signatures
+
+```bash
+curl https://github.com/lycan-hunter.gpg | gpg --import
+gpg --verify file.sig file.txt
+```
+
+---
+
+> 📌 *Just send me noods already* 🍜
+> 
+> ![rei](./assets/rei.gif)

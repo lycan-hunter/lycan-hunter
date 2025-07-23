@@ -1,4 +1,4 @@
-# 🤓 Lycan Hunter
+# 🤓 Lycan Hunter | lycan-hunter
 
 > 📌 *Ugh, not refactoring again* 🤦‍♂️
 

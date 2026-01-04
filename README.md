@@ -1,7 +1,5 @@
 # 🤓 Lycan Hunter | lycan-hunter
 
-> 📌 *Ugh, not refactoring again* 🤦‍♂️
-
 ---
 
 ## 📬 Contact
@@ -35,5 +33,3 @@ gpg --verify file.sig file.txt
 ---
 
 > 📌 *Just send me noods already* 🍜
-> 
-> ![rei](./assets/rei.gif)
